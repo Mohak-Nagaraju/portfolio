@@ -89,6 +89,14 @@ export const projects = [
   },
   {
     id: 3,
+    title: "AI Resume Analyzer",
+    des: "Built An intelligent resume description analyzer that extracts PDF content and uses AI to deliver insights and match scores for better job applications.",
+    img: "/p5.jpg",
+    iconLists: ["/java.svg","/ml.svg","/ai.svg"],
+    link: "https://github.com/Mohak-Nagaraju/AI-Resume-Analyzer",
+  },
+  {
+    id: 4,
     title: "Car Rental Application",
     des: "Transform your car rental experience with our streamlined system, designed for faster bookings, seamless browsing, and improved operational efficiency.",
     img: "/p3.png",
@@ -96,13 +104,22 @@ export const projects = [
     link: "https://github.com/Mohak-Nagaraju/DriveNow-Car-Rental-Application",
   },
   {
-    id: 4,
+    id: 5,
+    title: "WiseWallet AI",
+    des: "Built an intelligent budgeting app that uses AI to categorize expenses, analyze spending, and provide personalized financial insights through an interactive dashboard.",
+    img: "/p6.png",
+    iconLists: ["/java.svg","/ml.svg","/ai.svg"],
+    link: "https://github.com/Mohak-Nagaraju/AI_Expense_Tracker",
+  },
+  {
+    id: 6,
     title: "Human Behavioral Analysis",
     des: "Built an advanced framework for real-time human behavior and safety assessment using Python, ML, and sensor data, featuring face recognition and drowsiness detection with the Haar cascade algorithm to boost vehicle safety.",
     img: "/p4.jpg",
     iconLists: ["/py.svg","/ml.svg","/ss.svg"],
     link: "https://github.com/Mohak-Nagaraju/Human_Behavior_Analysis",
   },
+
 ];
 
 export const testimonials = [
